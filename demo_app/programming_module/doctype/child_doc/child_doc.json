@@ -1,0 +1,44 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2022-11-23 21:45:24.623642",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "fielda",
+  "fieldb",
+  "fieldc"
+ ],
+ "fields": [
+  {
+   "fieldname": "fielda",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "fielda"
+  },
+  {
+   "fieldname": "fieldb",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "fieldb"
+  },
+  {
+   "fieldname": "fieldc",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "fieldc"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2022-11-23 21:48:40.380752",
+ "modified_by": "Administrator",
+ "module": "Programming Module",
+ "name": "Child Doc",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}
